@@ -1,2 +1,2 @@
-# RIFFMAX
+# RIFF MAX
 
