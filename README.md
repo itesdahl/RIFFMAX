@@ -1,4 +1,4 @@
-# RIFFMAX
+# RIFF MAX
 
 ![CRIFF 600](RIFF600.jpg)
 
