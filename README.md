@@ -1,6 +1,6 @@
 # RIFF MAX
 
-![CRIFF 600](RIFF600max.jpg)
+![CRIFF 600](RIFF_MAX.jpg)
 
 This is a 600x600 size DIY printer that can be built without spending a fortune. 
 
