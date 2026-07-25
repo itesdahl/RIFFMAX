@@ -40,4 +40,4 @@ Drill access holes in all extrusions to get to the button head screws
 >Mount the 4 z-motor mounts with M5 10mm bolts. The motor mounts makes the frame more rigid. Check the frame again for squareness.
 
 
-![CAD model](render600max.png)
+![CAD model](RIFF_MAX.png)
