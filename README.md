@@ -9,7 +9,7 @@ I encourage the use of second hand parts and will not provide any complete BOM (
 > [!NOTE]
 > Future plans for this project is to add the Bondtech Indx. It should be a good fit for this frame, for printing signs etc..
 
-## Some key information about my original RIFF 600 build:
+## Some key information about my original RIFF MAX build:
 
 - Build plate 600 x 600 (assembly with 4 pcs 300x300 heat beds 
 - 2020 and 2040 extrusions 
