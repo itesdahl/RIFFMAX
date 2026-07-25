@@ -11,12 +11,14 @@ I encourage the use of second hand parts and will not provide any complete BOM (
 
 ## Some key information about my original RIFF MAX build:
 
-- Build plate 600 x 600 (assembly with 4 pcs 300x300 heat beds 
+- Build plate 600 x 600 (assembly with 4 pcs 300x300 heat beds) 
 - 2020 and 2040 extrusions 
+- Flying gantryFlying gantry
 - SKR 1.4 turbo and SKR Pico controllerboards (use whatever you have that have enough drivers and can run Klipper)
 - Radxa Rock 3C SBC (or a Pi. SBC with 3-4 USB ports recommended)
 - MGN 12H rails/carriage on X, Y and Z. 
 - Cartesian (the belts are a bit too long for corexy) 
+- 9mm belts on Y. 6mm belt on X
 - Klipper firmware 
 - Dual Y steppermotors
 - Sensorless homing on X and Y 
