@@ -30,6 +30,7 @@ I encourage the use of second hand parts and will not provide any complete BOM (
 - 4x2040 880mm for X
 - 4x2040 775mm for Y 
 - 4x2040 650mm for Z 
+- 4x2040 850mm for the bed (change to match your heat bed) 
 
 ### Cutting extrusions for the gantry
 - 1x2040 775mm for the back extrusion 
