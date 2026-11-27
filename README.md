@@ -7,7 +7,7 @@ This is a 600x600 size DIY printer that can be built without spending a fortune.
 I encourage the use of second hand parts and will not provide any complete BOM (listing specific new components/brands). 
 
 > [!NOTE]
->I consider this to be a prototype. You have to design some custom part to mach your heat bed installation. My cover plates are spesific to the heat beds I have.
+>I consider this to be a prototype. You have to design some custom part to match your own heat bed installation. My cover plates are spesific to the heat beds I have.
 
 ## Some key information about my original RIFF MAX build:
 
