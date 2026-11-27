@@ -21,6 +21,7 @@ I encourage the use of second hand parts and will not provide any complete BOM (
 - 9mm belts on Y. 6mm belt on X
 - Klipper firmware 
 - Dual Y steppermotors
+- 5:1 gear reduction on the z axis lead screws
 - Dragonburner with Sherpa micro 
 - 4 x 360W 24V power supplies 
 - 1 x 50W 5V power supply 
