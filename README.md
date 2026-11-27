@@ -9,7 +9,7 @@ I encourage the use of second hand parts and will not provide any complete BOM (
 > [!NOTE]
 >I consider this to be a prototype. You have to design some custom part to match your own heat bed installation. My cover plates are spesific to the heat beds I have.
 
-## Some key information about my original RIFF MAX build:
+## Some key information about my RIFF MAX build:
 
 - Build plate 600 x 600 (assembly with 4 pcs 300x300 heat beds) 
 - 2020 and 2040 extrusions 
